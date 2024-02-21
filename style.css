@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    background-image:url(imagens/fundo.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: "Honk", system-ui;
+  }
+  
+  div {
+    text-align: center;
+    width: 1000px;
+    min-height: 100vh;
+  }
+  img{
+
+    border-radius:50% ;
+    width: 150px;
+    min-width: auto;
+
+  }
+
+  
+  
